@@ -76,8 +76,6 @@ Using draw.io create a data model. Your data model MUST meet the following requi
 1. IATA codes can be used as the primary key for both _airlines_ and _airports_
 1. Use the t-ticket number as the primary key for the _tickets_ fact
 
-<br><br>
-
 ### Exercise 2: Data Loading and Normalization
 
 Develop an ETL pipeline that loads our dimensions and facts from the source file. You pipeline MUST meet the following requirements:
